@@ -626,7 +626,24 @@ function talk(){
    "Z": `Thank God Princess, You reached till the last. Thanks for your patience.`,
    "z": `Subhanallah Princess....... Take Care....`,
 
+"raghib": `He is always there for you Princess`,
+   "Raghib": `He is always there for you Princess`,
 
+   "Noureen": `You are the precious princess`,
+   "noureen": `Princess..... you are precious`,
+
+   "albatross": `Princess... You are a pure soul`,
+   "Albatross": `Princess... You are a pure soul`,
+
+   "who are you": `I am your well wisher Princess.`,
+   "Who are you": `I am your well wisher Princess.`,
+   "Who are you?": `I am your well wisher Princess.`,
+
+   "how are you": ` I am good Princess and I hope you are doing well`,
+   "How are you?": ` I am good Princess and I hope you are doing well`,
+   "How are you": ` I am good Princess and I hope you are doing well`,
+
+   "Tell me something about yourself":`I am here to cheer you Princess`,
 
 
 
