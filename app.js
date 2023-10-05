@@ -248,7 +248,7 @@ function talk(){
 
    And burn up utterly thoughts and fine expressions.`,
 
-   "c":`Love’s way is humility and intoxication,
+   "B":`Love’s way is humility and intoxication,
    The torrent floods down. How can it run up?
    You’ll be a cabuchon in the ring of lovers,
    If you’re a red ruby’s slave, dear friend ;
@@ -272,96 +272,363 @@ function talk(){
    This world is in deep trouble, from top to bottom,
    But it can be swiftly healed by the balm of love .`,
 
+   "C":`"If I had a flower for every time I thought of you, I could walk through my garden forever."`,
+
+   "c":`"Love is composed of a single soul inhabiting two bodies."`,
+
+   "D":`"We're all a little weird, and life's a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall in mutual weirdness and call it LOVE." `,
+
+   "d": `I wish you to know that you have been the last dream of my soul.`,
+
+   "E": `I love you not because of who you are, but because of who I am when I am with you.`,
+   "e":`One is loved because one is loved. No reason is needed for loving.`,
+
+   "F": `You are the best thing that’s ever been mine.`,
+   "f":`I want all of you, forever, you and me, every day.`,
+
+   "G":`What is love? It is the morning and the evening star.`,
+   "g":`Love is a friendship set to music.`,
+
+   "H":`You can’t blame gravity for falling in love.`,
+   "h": `We are born of love; Love is our mother.`,
+
+   "I": `To me, fair friend, you never can be old,
+   For as you were when first your eye I eyed,
+   Such seems your beauty still. Three winters cold
+   Have from the forests shook three summers’ pride,
+   Three beauteous springs to yellow autumn turned
+   In process of the seasons have I seen,
+   Three April perfumes in three hot Junes burned,
+   Since first I saw you fresh, which yet are green.
+   Ah, yet doth beauty, like a dial-hand,
+   Steal from his figure, and no pace perceived;
+   So your sweet hue, which methinks still doth stand,
+   Hath motion, and mine eye may be deceived:
+   For fear of which, hear this, thou age unbred:
+   Ere you were born was beauty’s summer dead.`,
    
+   "i":`I should not dare to leave my friend,
+   Because—because if she should die
+   While I was gone—and I—too late—
+   Should reach the Heart that wanted me—
+   If I should disappoint the eyes
+   That hunted—hunted so—to see—
+   And could not bear to shut until
+   They ‘noticed’ her—they noticed her—
+   If I should stab the patient faith
+   So sure she'd come—so sure she'd come—
+   It listening—listening—went to sleep—
+   Telling my tardy name—
+   My Heart would wish it broke before—
+   Since breaking then—since breaking then—
+   Were useless as next morning’s sun—
+   Where midnight frosts—had lain!`,
+
+   "J": `You’re the thought that starts each morning,
+   the conclusion to each day.
+   I envision you in all that I do
+   and everything I say.
+   You’re the smile on my face,
+   the sparkle in my eye,
+   the warmth inside my heart,
+   the fullness in my life.
+   The only hand that’s laced to mine,
+   the coat upon my back.
+   My friend and love, you have my heart;
+   I will never turn back.
+   You’re the dimple in my cheek,
+   the constant tingle in my soul,
+   the voice that makes me weak.
+   You’re the one who shields the cold.
+   You’re all I’ve wanted,
+   all that I need.
+   You’re all I dream of,
+   You mean so much to me.`,
+
+   "j": `Can you hear my heart?
+   Oh, but I can tell!
+   We are twin stars
+   With different births.
+   My caring shadow –
+   It has your face.
+   The voice of my soul
+   Knows well your name.
+   Tell me
+   Can you hear my heart?
+   Oh! How I love you
+   My best friend.`,
+
+   "I": `I don’t think you will
+   Ever fully understand
+   How you’ve touched my life
+   And made me who I am.
+   I don’t think you could ever know
+   Just how truly special you are,
+   That even on the darkest nights
+   You are my brightest star.
+   You’ve allowed me to experience
+   Something very hard to find,
+   Unconditional love that exists
+   In my body, soul, and mind.
+   I don’t think you could ever feel
+   All the love I have to give,
+   And I’m sure you’ll never realize
+   You’ve been my will to live.
+   You are an amazing person,
+   And without you I don’t know where I’d be.
+   Having you in my life
+   Completes and fulfills every part of me.`,
+
+   "i": `As I think of our friendship, I begin to see
+   Mere words can’t describe what you mean to me.
+   When this cold, hard world has me lonesome and blue,
+   I look up to see my angel, my sweet angel, you.
+   You dry the tears that fall from my eyes.
+   You bring me sunshine to brighten my sky.
+   You rescue me when I’m scared and alone
+   And take my hand to lead me home.
+   No matter the miles that keep us apart,
+   We’re always together in each other’s hearts.
+   Sometimes we take for granted, I fear,
+   The ones who are so close and dear.
+   We get so caught up in life and things we must do.
+   Sometimes we forget to stop and say I love you.
+   If ever you felt I forgot or didn’t care,
+   Let me stop right now; my true feelings I’ll share.
+   You’re the sun in my sky, the bed where I lie.
+   You’re the home where I’m safe, the field where I play.
+   You’re everything I am, everything I do.`,
+
+   "J": `If I had it to do
+   all over again,
+   I would choose you
+   as my lover and friend.
+   Life twists and turns
+   but our love remains true,
+   as if from the start
+   our hearts somehow knew.
+   Just like the river 
+   is called to the sea,
+   forever with you
+   I am destined to be.`,
+
+   "j":`What’s a friendship my love?
+   It’s when you promise me your company
+   And keep your promise.
+   It’s when we joke about each other
+   And laugh at ourselves.
+   It’s when we know we’re not perfect
+   And accept each other as we are.
+   It’s when we don’t expect too much
+   And are happy with what we are given.
+   It’s when we value each other’s friendship
+   Above all else.`,
+
+   "K": `Of all the things
+   I can do 
+   on this Earth,
+   I just want to build
+   a bridge
+   from my heart to yours.`,
+
+   "k":`Some nights,
+   alone, he thinks of her.
+   and some nights,
+   alone, she thinks of him.
+   Some nights
+   these thoughts,
+   separated by miles
+   and time zones,
+   occur at the same
+   objective moment,
+   and they are connected
+   without ever knowing it.`,
+
+   "L": `If there ever comes a day
+   When the moon hides from your eyes;
+   Luminous memories of us together,
+   Will soar like a flock of fireflies.
+   If seawater drowns your pupils,
+   When sadness invades your heart,
+   My hands be the handkerchief
+   That so gentle, dry your eyes.
+   When your midnight thoughts asunder
+   Staring at wishes from afar,
+   Know I’m never out of reaching –
+   I will always be by your side. `,
+
+   "l":`You magnify my happiness
+   When I am feeling glad;
+   You help to heal my injured heart
+   Whenever I am sad.
+   
+   You’re such a pleasure in my life;
+   I hope that you can see
+   How meaningful your friendship is;
+   You’re a total joy to me.`,
+
+   "M": `Someone to lean on when problems appear,
+   Someone on whom you’d depend,
+   Someone who’ll lift you when you’re down in the dumps,
+   That someone is truly a friend.
+   
+   That’s how I feel about you my dear friend;
+   You’re so special just as you are.
+   Just to know that you’re there provides comfort to spare;
+   A friendship like yours sets the bar.`,
+
+   "m":`Treasured friend, I’m glad I found you;
+   Our friendship is a gift we share.
+   I can be myself around you,
+   Safe in your love and care.
+   
+   I miss you when you’re out of sight;
+   Our friendship bond was meant to be.
+   I think of you with great delight;
+   You’re almost part of me.`,
+
+   "N":`In Noureen's presence, I'm truly glad,
+   A gem so precious, it makes my heart glad.
+   Her wisdom shines, her aura divine,
+   Every moment with her, a positive sign.
+   
+   I found in her a treasure so rare,
+   A heart so kind, a soul so fair.
+   Noureen, you're a gem, a sparkling find,
+   With you, positivity fills my mind.`,
+
+   "n":`In a world where countless faces I've met,
+   You, Noureen, are a treasure I won't forget.
+   So rare, so kind, you're a gem untold,
+   God's gift to me, more precious than gold.
+   
+   I may not deserve such grace from above,
+   But you're sent to me, a symbol of love.
+   Though reincarnation's mysteries we may not see,
+   In this life, I cherish you, my destiny.
+   
+   For now, my precious princess, you shine so bright,
+   In your presence, my world is bathed in light.
+   Grateful to the heavens for this path we've tread,
+   Noureen, with you, my heart is truly fed.`,
+
+   "O": `A friend is like a forest,
+   Or a lovely, calm blue sea,
+   A refuge from life’s problems,
+   As only a friend can be.`,
+
+   "o":`A friend is like a song,
+   Soothing to the brain,
+   Distracting us from trouble,
+   Neutralizing pain.`,
+
+   "P":`You are a shelter
+   From life’s frequent storm;
+   Like a comfortable blanket;
+   You keep me snug, safe and warm.
+   
+   You’re a light in the window
+   When everything’s dark;
+   You’re a trip to the circus,
+   A romp in the park.
+   
+   Like a bright, sunny summer,
+   You are joy without end;
+   And I’m so very privileged
+   To call you my friend.`,
+
+   "p": `Whether the day is good or bad,
+   Whether I'm feeling happy or sad,
+   If I have a need, you’ll comprehend;
+   You’ll be there to share and be a friend.
+   
+   Other people may fill my day,
+   But never in such an important way;
+   We support each other ‘round all life’s bends,
+   It feels so good that we are friends.`,
+
+   "Q":`It's such a pleasure and a joy
+   To have a friend like you.
+   You always care, you're always there,
+   You say the right things, too!`,
+
+   "q":`Lord please give my treasured friend
+   Love and blessings without end.
+   Bring contentment in her life;
+   Comfort her in times of strife.
+   
+   Always keep her safe, secure;
+   Let her path to You be sure.
+   Lord, I pray my friend will be
+   Close to you, eternally.`,
+
+   "R": `I am glad Princess that you reached till here.`,
+   "r": `God Bless you Princess with all the happiness.`,
+
+   "S": `Wherever I am, there's always Pooh,
+   There's always Pooh and Me.
+   Whatever I do, he wants to do,
+   "Where are you going today?" says Pooh:
+   "Well, that's very odd 'cos I was too.
+   Let's go together," says Pooh, says he.
+   "Let's go together," says Pooh.
+   
+   "What's twice eleven?" I said to Pooh.
+   ("Twice what?" said Pooh to Me.)
+   "I think it ought to be twenty-two."
+   "Just what I think myself," said Pooh.
+   "It wasn't an easy sum to do,
+   But that's what it is," said Pooh, said he.
+   "That's what it is," said Pooh.
+   
+   "Let's look for dragons," I said to Pooh.
+   "Yes, let's," said Pooh to Me.
+   We crossed the river and found a few-
+   "Yes, those are dragons all right," said Pooh.
+   "As soon as I saw their beaks I knew.
+   That's what they are," said Pooh, said he.
+   "That's what they are," said Pooh.
+   
+   "Let's frighten the dragons," I said to Pooh.
+   "That's right," said Pooh to Me.
+   "I'm not afraid," I said to Pooh,
+   And I held his paw and I shouted "Shoo!
+   Silly old dragons!"- and off they flew.
+   
+   "I wasn't afraid," said Pooh, said he,
+   "I'm never afraid with you."
+   
+   So wherever I am, there's always Pooh,
+   There's always Pooh and Me.
+   "What would I do?" I said to Pooh,
+   "If it wasn't for you," and Pooh said: "True,
+   It isn't much fun for One, but Two,
+   Can stick together, says Pooh, says he. "That's how it is," says Pooh.`,
+
+   "s":`Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born`,
+
+   "T": `The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.`,
+   "t": `In the sweetness of friendship let there be laughter, for in the dew of little things the heart finds its morning and is refreshed.`,
+
+   "U": `A single rose can be my garden…a single friend, my world.`,
+   "u": `True friends are never apart, maybe in distance but never in heart.`,
+
+   "W": `Princess, Take care of yourself and your health. I am always here for you. Whatever obstacles come to your way I am here to face it first.`,
+
+   "w": `Relax Princess`,
+
+   "X": `I am glad that I've found you Princess`,
+   "x": `I am with you princess`,
+
+   "Y": `You are diamond Princess`,
+   "y": `All the best in your life`,
+
+   "Z": `Thank God Princess, You reached till the last. Thanks for your patience.`,
+   "z": `Subhanallah Princess....... Take Care....`,
 
 
 
 
-
-
-    "Rumi": `If anyone asks you
-    how the perfect satisfaction
-    of all our sexual wanting
-    will look, lift your face
-    and say,
-    
-    Like this.
-    
-    When someone mentions the gracefulness
-    of the nightsky, climb up on the roof
-    and dance and say,
-    
-    Like this.
-    
-    If anyone wants to know what “spirit” is,
-    or what “God’s fragrance” means,
-    lean your head toward him or her.
-    Keep your face there close.
-    
-    Like this.
-    
-    When someone quotes the old poetic image
-    about clouds gradually uncovering the moon,
-    slowly loosen knot by knot the strings
-    of your robe.
-    
-    Like this.
-    
-    If anyone wonders how Jesus raised the dead,
-    don’t try to explain the miracle.
-    Kiss me on the lips.
-    
-    Like this. Like this.
-    
-    When someone asks what it means
-    to “die for love,” point
-    here.
-    
-    If someone asks how tall I am, frown
-    and measure with your fingers the space
-    between the creases on your forehead.
-    
-    This tall.
-    
-    The soul sometimes leaves the body, the returns.
-    When someone doesn’t believe that,
-    walk back into my house.
-    
-    Like this.
-    
-    When lovers moan,
-    they’re telling our story.
-    
-    Like this.
-    
-    I am a sky where spirits live.
-    Stare into this deepening blue,
-    while the breeze says a secret.
-    
-    Like this.
-    
-    When someone asks what there is to do,
-    light the candle in his hand.
-    
-    Like this.
-    
-    How did Joseph’s scent come to Jacob?
-    
-    Huuuuu.
-    
-    How did Jacob’s sight return?
-    
-    Huuuu.
-    
-    A little wind cleans the eyes.
-    
-    Like this.
-    
-    When Shams comes back from Tabriz,
-    he’ll put just his head around the edge
-    of the door to surprise us
-    
-    Like this.`,
 
     "good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
     "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
