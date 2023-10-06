@@ -48,7 +48,11 @@ function talk(){
       "Good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
       
       "good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
-      
+
+      "0":`I love you as Misfortune loves Orphans,
+As Fire loves Innocence,
+And as Justice loves to sit and watch while everything goes wrong`,
+
       
 
       
