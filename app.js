@@ -1,7 +1,7 @@
 function greeting() {
   var userInput = prompt("Please enter the correct password to proceed Princess:");
 
-  if (userInput === "Noureen") {
+  if (userInput === "Noureen" || userInput === "Princess") {
     alert("Welcome, Princess! I am glad you are here Princess ");
     // Redirect to the actual page or perform any other actions here
   } else {
