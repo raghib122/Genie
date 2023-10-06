@@ -1,7 +1,16 @@
-function greeting(){
-  alert("I am glad you are here Princess")
+function greeting() {
+  var userInput = prompt("Please enter the correct password to proceed Princess:");
+
+  if (userInput === "Noureen") {
+    alert("Welcome, Princess! I am glad you are here Princess ");
+    // Redirect to the actual page or perform any other actions here
+  } else {
+    alert("Sorry Princess. Please try again.");
+    greeting(); // Call the function recursively if the input is incorrect
+  }
 }
-greeting()
+
+greeting(); // Call the function to start the process
 
 function talk(){
     var know = {
@@ -661,6 +670,17 @@ function talk(){
   "morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
   "Good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
+"Good Morning Prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+
+      "good morning prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+      "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+
+
+
+      "good night prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      "Good Night Prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      "Good night prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      
     "Good Night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
     "good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
  "Good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
