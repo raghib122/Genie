@@ -8,14 +8,26 @@ function talk(){
         "Hello": "ٱلسَّلَامُ عَلَيْكُمْ",
         "hello": "ٱلسَّلَامُ عَلَيْكُمْ",
         "hii": "ٱلسَّلَامُ عَلَيْكُمْ",
+       "hi": "ٱلسَّلَامُ عَلَيْكُمْ",
+        "hiii": "ٱلسَّلَامُ عَلَيْكُمْ",
+        "hey": "ٱلسَّلَامُ عَلَيْكُمْ",
+        "Hey": "ٱلسَّلَامُ عَلَيْكُمْ",
         "Hii": "Welcome Princess",
         "name": "You are princess Noureen",
         "Name": "You are princess Noureen",
         "your name": "Sorry my Princess, But my creator doesn't give me any name",
         "Your name": "Sorry my Princess, But my creator doesn't give me any name",
-    "Who are you" : "I'm your personal assistant Princess, ",
-    "who are you" : "I'm your personal assistant Princess, ",
+    "Who are you" : "I'm your personal assistant Princess.",
+    "Who are you?" : "I'm your personal assistant Princess.",
+    "who are you?" : "I'm your personal assistant Princess.",
+    "who are you" : "I'm your personal assistant Princess.",
     "who am i": "You are precious Princess",
+
+"How are you": "As far you are okay I am good.",
+    "how are you": "As far you are okay I am good.",
+    "How are you?": "As far you are okay I am good.",
+    "how are you?": "As far you are okay I am good.",
+      
     "noureen" : "It's you your Highness, the precious one",
     "Noureen" : "It's you your Highness, the precious one",
     "raghib": "He is always there for you princess",
@@ -666,7 +678,7 @@ function talk(){
     "Bye" : "Okay! Will meet soon, Your Highness",
     "bye" : "Okay! Will meet soon, Your Highness",
     };
-    var user = document.getElementById('userBox').value;
+    var user = document.getElementById('userBox').value.trim();
   var chatLog = document.getElementById('chatLog');
   var response = '';
 
