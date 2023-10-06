@@ -1,13 +1,20 @@
 function greeting() {
   var userInput = prompt("Please enter the correct password to proceed Princess:");
-userInput = userInput.trim();
-  
-  if (userInput === "LOVE" || userInput === "Noureen") {
-    alert("Welcome, Princess! I am glad you are here Princess ");
-    // Redirect to the actual page or perform any other actions here
+
+  if (userInput === null) {
+    // User clicked "Cancel"
+    alert("Access denied. Please provide the correct password.");
+    greeting(); // Call the function recursively to ask again
   } else {
-    alert("Sorry Princess. Please try again.");
-    greeting(); // Call the function recursively if the input is incorrect
+    userInput = userInput.trim();
+
+    if (userInput === "Princess" || userInput === "LOVE") {
+      alert("Welcome, Princess! I am glad you are here Princess.");
+      // Redirect to the actual page or perform any other actions here
+    } else {
+      alert("Sorry, Princess. Please try again.");
+      greeting(); // Call the function recursively if the input is incorrect
+    }
   }
 }
 
