@@ -17,16 +17,10 @@ function talk(){
         "Name": "You are princess Noureen",
         "your name": "Sorry my Princess, But my creator doesn't give me any name",
         "Your name": "Sorry my Princess, But my creator doesn't give me any name",
-    "Who are you" : "I'm your personal assistant Princess.",
-    "Who are you?" : "I'm your personal assistant Princess.",
-    "who are you?" : "I'm your personal assistant Princess.",
-    "who are you" : "I'm your personal assistant Princess.",
+   
     "who am i": "You are precious Princess",
 
-"How are you": "As far you are okay I am good.",
-    "how are you": "As far you are okay I am good.",
-    "How are you?": "As far you are okay I am good.",
-    "how are you?": "As far you are okay I am good.",
+
       
     "noureen" : "It's you your Highness, the precious one",
     "Noureen" : "It's you your Highness, the precious one",
@@ -648,10 +642,12 @@ function talk(){
    "Albatross": `Princess... You are a pure soul`,
 
    "who are you": `I am your well wisher Princess.`,
+       "who are you?": `I am your well wisher Princess.`,
    "Who are you": `I am your well wisher Princess.`,
    "Who are you?": `I am your well wisher Princess.`,
 
    "how are you": ` I am good Princess and I hope you are doing well`,
+      "how are you?": ` I am good Princess and I hope you are doing well`,
    "How are you?": ` I am good Princess and I hope you are doing well`,
    "How are you": ` I am good Princess and I hope you are doing well`,
 
@@ -661,11 +657,17 @@ function talk(){
 
     "good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
     "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "Good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
     "Good Night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
     "good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+ "Good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+     "night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+ "Night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
 
-    
+      
     "ok" : "Thank You So Much ",
     "what is your favorite hobby": "I enjoy reading books and learning new things.",
     "tell me a joke": "Sure, here's one: Why don't scientists trust atoms? Because they make up everything!",
