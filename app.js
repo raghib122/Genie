@@ -30,13 +30,26 @@ function talk(){
         "hey": "ٱلسَّلَامُ عَلَيْكُمْ",
         "Hey": "ٱلسَّلَامُ عَلَيْكُمْ",
         "Hii": "Welcome Princess",
+         "Hi": "Welcome Princess",
         "name": "You are princess Noureen",
         "Name": "You are princess Noureen",
         "your name": "Sorry my Princess, But my creator doesn't give me any name",
         "Your name": "Sorry my Princess, But my creator doesn't give me any name",
    
     "who am i": "You are precious Princess",
+"Good Evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      "Good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      "good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      
+      "Have a good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
 
+      "Good Day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      
+      "Good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      
+      "good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      
+      
 
       
     "noureen" : "It's you your Highness, the precious one",
