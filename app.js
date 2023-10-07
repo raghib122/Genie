@@ -332,7 +332,7 @@ seek passion, seek passion, seek passion!`,
 
 na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
 
-      
+      "24":`I choose to love you in silence because in silence I find no rejection, and in silence no one owns you but me.`,
 
 
 
