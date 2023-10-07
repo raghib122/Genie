@@ -319,6 +319,23 @@ Thus mellowed to that tender light
 
 Which heaven to gaudy day denies.`,
 
+
+      "22": `Passion makes the old medicine new:
+Passion lops off the bough of weariness.
+Passion is the elixir that renews:
+how can there be weariness
+when passion is present?
+Oh, don't sigh heavily from fatigue:
+seek passion, seek passion, seek passion!`,
+
+      "23": `ujāle apnī yādoñ ke hamāre saath rahne do 
+
+na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
+
+      
+
+
+
    "a":`“This is how I would die
    into the love I have for you:
    As pieces of cloud
@@ -744,8 +761,9 @@ Which heaven to gaudy day denies.`,
   "Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
   "morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
   "Good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+"GOOD MORNING" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
-"Good Morning Prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+      "Good Morning Prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
       "good morning prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
       "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
