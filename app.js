@@ -8,8 +8,8 @@ function greeting() {
   } else {
     userInput = userInput.trim();
 
-    if (userInput === "Princess" || userInput === "LOVE") {
-      alert("Welcome, Princess! I am glad you are here Princess.");
+    if (userInput === "Princess" || userInput === "LOVE" || userInput === "raghib" || userInput === "noureen") {
+      alert("Welcome, Princess Noureen!");
       // Redirect to the actual page or perform any other actions here
     } else {
       alert("Sorry, Princess. Please try again.");
