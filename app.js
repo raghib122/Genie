@@ -56,8 +56,39 @@ And as Justice loves to sit and watch while everything goes wrong`,
       
 
       
-    "noureen" : "It's you your Highness, the precious one💕💕💕",
-    "Noureen" : "It's you your Highness, the precious one💕💕💕",
+    "noureen" : `In friendship's gentle, cherished light,
+Princess, you shine so pure and bright. ✨
+A bond so rare, it's plain to see,
+A treasure, you are, to you and me. 💎
+
+Through laughter, tears, and endless talks,
+In every moment, our friendship walks. 😄
+With kindness, warmth, and care to spare,
+In your friendship, we find solace rare. ❤️
+
+So raise a toast to friendship true,
+Princess Noureen, this one's for you! 🥂
+In the book of friends, you hold a special page,
+A friendship that will flourish in every age. 📖🌟💕💕💕`,
+
+      
+    "Noureen" : `In friendship's embrace, I stand so tall,
+Princess Noureen, you've captured my all. 🌟
+With each passing day, our bond grows strong,
+In this joyful journey, where I truly belong. 🤗
+
+Through ups and downs, through thick and thin,
+Together we conquer, always to win. 💪
+In your company, I find endless cheer,
+Our friendship, my dear, is incredibly dear. 💖
+
+So let's celebrate this friendship so bright,
+With laughter and love, every day and night. 😄🌙
+Princess, you're a gem, precious and rare,
+In my heart forever, you're welcomed to share. 💎❤️`,
+
+
+      
     "raghib": "I am here Princess 💕💕",
     "Raghib": "I am here Princess💕💕💕💕💕💕💕💕💕💕💕",
     "fgihjg": "Sorry Princess",
