@@ -365,7 +365,157 @@ na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
 
       "24":`I choose to love you in silence because in silence I find no rejection, and in silence no one owns you but me.`,
 
+"25":`When I see you in the morning,
+it brightens up my day.
+There are so many thoughts on my mind,
+so many words I want to say.
 
+I want to tell you how I feel,
+but the words I cannot find.
+They're all mixed up with my thoughts
+that are running through my mind.
+
+I've been keeping it locked up
+because I know there's not a chance.
+You never look my way.
+You don't even take a glance.
+
+You don't even know you're doing this,
+toying with my heart.
+I wish I could just tell you,
+but I don't know where to start.
+
+Should I tell you how much you mean to me
+or how badly I want to be with you?
+If I were to say these things
+how would you react, what would you do?
+
+Would you never talk to me again?
+Would you never look my way?
+That would just bring me back
+to where I am today.
+
+Then I'd start all over
+and choose a different route
+to make you understand
+my feelings that want out.
+
+I don't know what to do
+or even how to say.
+Maybe I should lock it up
+and keep myself away.
+
+My heart would ache even more,
+but maybe for the good.
+I just really want to tell you
+only if I could.`,
+
+"26":`Make me laugh over coffee,
+make it a double, make it frothy
+so it seethes in our delight.
+Make my cup overflow
+with your small happiness.
+I want to hoot and snort and cackle and chuckle.
+Let your laughter fill me like a bell.
+Let me listen to your ringing and singing
+as Billie Holiday croons above our heads.
+Sorry, the blues are nowhere to be found.
+Not tonight. Not here.
+No makeup. No tears.
+Only contours. Only curves.
+Each sip takes back a pound,
+each dry-roasted swirl takes our soul.
+Can I have a refill, just one more?
+Let the bitterness sink to the bottom of our lives.
+Let us take this joy to go.`,
+
+      "27": `Can you hear my heart?
+Oh, but I can tell!
+We are twin stars
+With different births.
+My caring shadow –
+It has your face.
+The voice of my soul
+Knows well your name.
+Tell me
+Can you hear my heart?
+Oh! How I love you
+My best friend.`,
+
+      "28":`We are friends.
+I’ve got your back,
+And you have mine.
+I’ll help you out
+Anytime!
+To see you hurt,
+To see you cry,
+Makes me weep
+And wanna die.
+If you agree
+To never fight,
+It wouldn’t matter
+Who’s wrong or right.
+If a broken heart
+Needs a mend,
+I’ll be right there
+Till the end.
+If your cheeks are wet
+From drops of tears,
+Don’t worry,
+Let go of your fears.
+Hand in hand
+Love is sent.
+We’ll be friends
+Till the end!`,
+
+      "29":`There is always a place for you at my table,
+You never need be invited.
+I’ll share every crust as long as I’m able,
+And know you will be delighted.
+There is always a place for you by my fire,
+And though it may burn to embers,
+If warmth and good cheer are your desire
+The friend of your heart remembers!
+There is always a place for you by my side,
+And should the years tear us apart,
+I will face lonely moments more satisfied
+With a place for you in my heart!`,
+
+
+      "30":`I love you,
+Not only for what you are,
+But for what I am when I am with you.
+
+I love you,
+Not only for what you have made of yourself,
+But for what you are making of me.
+
+I love you for
+the part of me that you bring out;
+I love you for
+putting your hand into my heaped-up heart
+And passing over all the foolish, weak things
+that you can’t help dimly seeing there,
+And for drawing out into the light
+All the beautiful things
+that no one else had looked
+Quite far enough to find.
+
+I love you because you have done
+More than any creed
+Could have done
+To make me good,
+And more than any fate could have done
+To make me happy.
+You have done it
+Without a touch,
+Without a word,
+Without a sign.
+You have done it by being yourself
+Perhaps that is what
+Being a friend means, after all.`,
+
+      
 
    "a":`“This is how I would die
    into the love I have for you:
