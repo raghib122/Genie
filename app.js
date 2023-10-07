@@ -36,18 +36,18 @@ function talk(){
         "your name": "Sorry my Princess, But my creator doesn't give me any name",
         "Your name": "Sorry my Princess, But my creator doesn't give me any name",
    
-    "who am i": "You are precious Princess",
-"Good Evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
-      "Good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
-      "good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+    "who am i": "You are precious Princess 💕",
+"Good Evening" : `Good evening, my enchanting princess 💕 of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      "Good evening" : `Good evening, my enchanting princess 💕💕of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      "good evening" : `Good evening, my enchanting princess💕💕 of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
       
-      "Have a good evening" : `Good evening, my enchanting princess of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
+      "Have a good evening" : `Good evening, my enchanting princess 💕💕 of twilight. As the realmwalker, I've been vigilant over your day, ready to shield it from disturbances. If the princess allows, we may share our thoughts as the day gently turns into night. May your evening be as serene as the dreams you hold dear." 🌆🌟😊`,
 
-      "Good Day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      "Good Day":`Good day, my beloved princess💕💕💕. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
       
-      "Good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      "Good day":`Good day, my beloved princess💕💕💕. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
       
-      "good day":`Good day, my beloved princess. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
+      "good day":`Good day, my beloved princess💕💕. As the sun graces the world with its warmth, may your day be filled with the radiance of your smile and the kindness of your heart. You are a beacon of light, and your presence makes every moment brighter. Embrace this day with the grace that defines you, and may it be as beautiful as your spirit. 🌞👑💖`,
 
       "0":`I love you as Misfortune loves Orphans,
 As Fire loves Innocence,
@@ -56,10 +56,10 @@ And as Justice loves to sit and watch while everything goes wrong`,
       
 
       
-    "noureen" : "It's you your Highness, the precious one",
-    "Noureen" : "It's you your Highness, the precious one",
-    "raghib": "He is always there for you princess",
-    "Raghib": "He is always there for you princess",
+    "noureen" : "It's you your Highness, the precious one💕💕💕",
+    "Noureen" : "It's you your Highness, the precious one💕💕💕",
+    "raghib": "I am here Princess 💕💕",
+    "Raghib": "I am here Princess💕💕💕💕💕💕💕💕💕💕💕",
     "fgihjg": "Sorry Princess",
     "How are you" : "Good :)",
     "What can i do for you" : "Just keep silence",
@@ -733,11 +733,11 @@ na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
    "Z": `Thank God Princess, You reached till the last. Thanks for your patience.`,
    "z": `Subhanallah Princess....... Take Care....`,
 
-"raghib": `He is always there for you Princess`,
-   "Raghib": `He is always there for you Princess`,
+"raghib": `I am here Princess💕💕`,
+   "Raghib": `I am here Princess💕💕💕`,
 
-   "Noureen": `You are the precious princess`,
-   "noureen": `Princess..... you are precious`,
+   "Noureen": `You are the precious princess💕💕💕💕`,
+   "noureen": `Princess..... you are precious💕💕💕💕`,
 
    "albatross": `Princess... You are a pure soul`,
    "Albatross": `Princess... You are a pure soul`,
@@ -756,29 +756,29 @@ na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
 
 
 
-    "good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-    "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-  "Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-  "morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-  "Good morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-"GOOD MORNING" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+    "good morning" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+    "Good Morning" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "Morning" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "morning" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+  "Good morning" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+"GOOD MORNING" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
-      "Good Morning Prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+      "Good Morning Prince" : "Good morning, my radiant princess💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
-      "good morning prince" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
-      "Good Morning" : "Good morning, my radiant princess. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+      "good morning prince" : "Good morning, my radiant princess💕💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
+      "Good Morning" : "Good morning, my radiant princess💕💕💕. With the sunrise, your grace and beauty shine anew. May this day be as lovely and inspiring as you are. Embrace the moments ahead with the same elegance that defines you. 🌞👑💖",
 
 
 
-      "good night prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
-      "Good Night Prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
-      "Good night prince" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      "good night prince" : "Good night, my dear princess💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      "Good Night Prince" : "Good night, my dear princess💕💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+      "Good night prince" : "Good night, my dear princess💕💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
       
-    "Good Night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
-    "good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
- "Good night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
-     "night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
- "Night" : "Good night, my dear princess. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+    "Good Night" : "Good night, my dear princess💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+    "good night" : "Good night, my dear princess💕💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+ "Good night" : "Good night, my dear princess💕💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+     "night" : "Good night, my dear princess💕💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
+ "Night" : "Good night, my dear princess💕💕💕. As the stars twinkle in the sky, may your dreams be as beautiful as your heart. Rest well, for when morning comes, a new day of enchantment awaits. Sleep tight. 🌙👑💫",
 
       
     "ok" : "Thank You So Much ",
