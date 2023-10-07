@@ -767,8 +767,9 @@ na jaane kis galī meñ zindagī kī shaam ho jaa.e`,
 "raghib": `I am here Princess💕💕`,
    "Raghib": `I am here Princess💕💕💕`,
 
-   "Noureen": `You are the precious princess💕💕💕💕`,
-   "noureen": `Princess..... you are precious💕💕💕💕`,
+   "NOUREEN": `When you're sad and depressed, I will be here to put a smile on your face. When you're angry and frustrated, I will be here to calm you down. When you're hurt and in tears, I will be here to wipe them away and mend the pain. When you're lonely and have no one, I will be here to comfort you. When you're feeling unloved and unwanted, I will be here to tell you how very important you are. When you're having a bad day and need to lash out, I will be here to let off steam. When there is something on your mind that you need to say, I will be here to listen and understand. When you're lost in confusion, I will be here to help you figure things out. When you feel like you're going crazy, I will be here to bring you back to sanity. When you are so overwhelmed and need to get away, I will be here with open arms so we can run away together. When you're scared and frightened, I will be here to protect you and make you feel safe. When you are full of worries, I will be here to worry with you. I promise that I will always be here for my loved ones, today, tomorrow and forever! 💕💕💕💕`,
+      
+  
 
    "albatross": `Princess... You are a pure soul`,
    "Albatross": `Princess... You are a pure soul`,
