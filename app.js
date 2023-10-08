@@ -901,7 +901,32 @@ Being a friend means, after all.`,
    "U": `A single rose can be my garden…a single friend, my world.`,
    "u": `True friends are never apart, maybe in distance but never in heart.`,
 
-   "W": `Princess, Take care of yourself and your health. I am always here for you. Whatever obstacles come to your way I am here to face it first.`,
+      "v": `Hold fast to dreams
+For if dreams die
+Life is a broken-winged bird
+That cannot fly.
+Hold fast to dreams
+For when dreams go
+Life is a barren field
+Frozen with snow.`,
+
+      "V":`Give me your hand
+
+Make room for me
+to lead and follow
+you
+beyond this rage of poetry.
+
+Let others have
+the privacy of
+touching words
+and love of loss
+of love.
+
+For me
+Give me your hand.`,
+
+   "W": `Smile Please, and carry on... `,
 
    "w": `My princess, in your presence, I've found my fairytale come true. 💫👑💖`,
 
