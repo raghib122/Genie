@@ -8,7 +8,7 @@ function greeting() {
   } else {
     userInput = userInput.trim();
 
-    if (userInput === "Princess" || userInput === "LOVE" || userInput === "raghib" || userInput === "noureen") {
+    if (userInput === "Princess" || userInput === "LOVE" || userInput === "raghib" || userInput === "noureen" || userInput === "Noureen" || userInput === "Raghib") {
       alert("Welcome, Princess Noureen!");
       // Redirect to the actual page or perform any other actions here
     } else {
@@ -89,8 +89,8 @@ In my heart forever, you're welcomed to share. 💎❤️`,
 
 
       
-    "raghib": "I am here Princess 💕💕",
-    "Raghib": "I am here Princess💕💕💕💕💕💕💕💕💕💕💕",
+    "raghib": "Yes, Princess 💕💕",
+    "Raghib": "Yes,  Princess💕💕💕💕💕💕💕💕💕💕💕",
     "fgihjg": "Sorry Princess",
     "How are you" : "Good :)",
     "What can i do for you" : "Just keep silence",
@@ -903,19 +903,85 @@ Being a friend means, after all.`,
 
    "W": `Princess, Take care of yourself and your health. I am always here for you. Whatever obstacles come to your way I am here to face it first.`,
 
-   "w": `Relax Princess`,
+   "w": `My princess, in your presence, I've found my fairytale come true. 💫👑💖`,
 
-   "X": `I am glad that I've found you Princess`,
-   "x": `I am with you princess`,
+   "X": `In my princess's eyes, I see a gleam, ✨
+A pure soul's essence, like a tranquil stream. 🌟
+She teaches me what love and kindness mean, ❤️
+In her grace and beauty, like a timeless dream. 👸
 
-   "Y": `You are diamond Princess`,
-   "y": `All the best in your life`,
+Her heart, a treasure, precious and so rare, 💎
+With every smile, she banishes despair. 😊
+In her presence, life's colors brightly flare, 🌈
+My princess, a gem beyond compare. 💖
 
-   "Z": `Thank God Princess, You reached till the last. Thanks for your patience.`,
-   "z": `Subhanallah Princess....... Take Care....`,
+So, I'm grateful to the stars above, 🌠
+For guiding me to this princess, my love. 💫
+She's shown me what a pure soul's made of, ✨
+A gift from heaven, sent from high above. 🌟`,
+      
+   "x": `In a world of glitz and grand display, ✨
+There shines a princess in her own sweet way. 👸
+Her beauty lies not in the outward view, 💖
+But in the purity of her heart so true. 💫
 
-"raghib": `I am here Princess💕💕`,
-   "Raghib": `I am here Princess💕💕💕`,
+With eyes that see beyond the surface, deep, 👀
+She finds the treasures hidden, secrets to keep. 🌟
+In every soul, she finds a gem so bright, 💎
+A world of beauty, hidden from plain sight. ✨
+
+Her inner radiance, a guiding light, 🌟
+Illuminates the darkest, starless night. 🌌
+She shows the world a different kind of grace, 💕
+A gentler path, a more compassionate space. 🌈
+
+Her kindness blooms like flowers in the spring, 🌸
+A melody of love in every word she'll sing. 🎶
+In her, we find a princess, pure and rare, 👑
+A heart so beautiful, beyond compare. 💖
+
+So let us all aspire to her grace, 🌠
+And see the world through love's embracing embrace. 🤗
+For in her purity, we find the key, 🔑
+To a world of beauty, for all to see. 🌍💕🦄`,
+
+   "Y": `You're a princess, a rarity in a world of ordinary. 👑💖`,
+   "y": `In a world so cruel, she stands alone, 💔
+A pure soul, a gem, a heart of gold. ✨
+Amidst the chaos, her light brightly shown, 🌟
+I can't believe such beauty, truth be told. 😇
+
+She's a princess in a world so harsh, 👸
+Her kindness and love, a soothing balm. 💖
+In her presence, all troubles seem to hush, 🤫
+I'm in awe of her, in awe of her calm. 😌
+
+In this world of darkness, she's a guiding star, 🌠
+A beacon of hope, no matter how far. 🌌
+I can't believe such purity exists, 😮
+A princess like her, I'm truly blessed. 🙏`,
+
+   "Z": `No other statement can just beat this one :
+“No one can Love Intelligently.
+Bcoz the Nature of True Love is Madness”!!`,
+      
+   "z": `To the princess, I say, "I'm by your side,
+In your radiance, my darkness can't hide.
+You're the guiding star in my endless night,
+With you, everything feels perfectly right.
+
+In your grace, I find strength to stand tall,
+You're the melody in my life's sweetest call.
+A diamond in this world's unending sea,
+With you, my love, I'm where I want to be.
+
+Your kindness, a gift, so pure and rare,
+You're the answer to my whispered prayer.
+In your presence, life's beauty unfurls,
+With you, my princess, I'm the luckiest in the world." 💖🌟👑`,
+
+"raghib": `Yes, Princess💕💕`,
+   "Raghib": `Yes,  Princess💕💕💕`,
 
    "NOUREEN": `When you're sad and depressed, I will be here to put a smile on your face. When you're angry and frustrated, I will be here to calm you down. When you're hurt and in tears, I will be here to wipe them away and mend the pain. When you're lonely and have no one, I will be here to comfort you. When you're feeling unloved and unwanted, I will be here to tell you how very important you are. When you're having a bad day and need to lash out, I will be here to let off steam. When there is something on your mind that you need to say, I will be here to listen and understand. When you're lost in confusion, I will be here to help you figure things out. When you feel like you're going crazy, I will be here to bring you back to sanity. When you are so overwhelmed and need to get away, I will be here with open arms so we can run away together. When you're scared and frightened, I will be here to protect you and make you feel safe. When you are full of worries, I will be here to worry with you. I promise that I will always be here for my loved ones, today, tomorrow and forever! 💕💕💕💕`,
       
