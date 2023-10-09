@@ -515,6 +515,113 @@ You have done it by being yourself
 Perhaps that is what
 Being a friend means, after all.`,
 
+      "31": `BE MELTING SNOW
+
+Totally conscious, and apropos of nothing, you come to see me. The moon. The full moon is inside your house.
+
+Is someone here? I ask.
+
+My friends and I go running out into the street. I'm in here, comes a voice from the house, but we aren't listening.
+
+We're looking up at the sky.
+
+My pet nightingale sobs like a drunk in the garden. Ringdoves scatter with small cries, Where, Where. It's midnight. The whole neighborhood is up and out in the street thinking. The cat burglar has come back. The actual thief is there too, saying out loud, Yes, the cat burglar is somewhere in this crowd.
+
+No one pays attention.
+
+Lo, I am with you always means when you look for God, God is in the look of your eyes, in the thought of looking, nearer to you than your self, or things that have happened to you .
+
+There's no need to go outside
+
+Be melting snow.
+
+Wash yourself of yourself.
+
+A white flower grows in the quietness. Let your tongue become that flower.`,
+
+      "32": `A COMMUNITY  OF THE SPIRIT
+      
+There is a community of the spirit.
+Join it, and feel rhe delight
+of walking in rhe noisy st eet,
+and being the noise.
+Drink all your passion,
+and be a disgrace.
+Close borh eyes
+ro see with the other eye.
+Open your hands,
+if you want to be held.
+Sit down in this circle.
+Quit acting like a wolf, and feel
+the shepherd’s love filling you.
+Ar night, your beloved wanders. Don’t accept consolations.
+Close your mouth against food.
+Tasre the lover’s mou th iri yours.
+You moan, “She lefi me.” “He left me.” Twenty more will come.
+Be empty of worrying.
+Think of who created thought!
+Why do you stay in prison when the door is so wide open?
+Move outside the tangle of fear-thinking. Live in silence.
+Flow down and down in always widening rings of being.
+ 
+There’s a strange frenzy in my head, of birds flying,
+each particle circulating on its own.
+Is the one I love euerywhete'?
+
+Drunks fear the police,
+but the police are drunk too.
+People in this rown love them both like different chess pieces.`,
+
+
+      "33": `S P F C IAL  P LA T ES
+
+Notice how each particle moves.
+Notice how everyone has just arrwed here from a journey.
+Notice how each wants a different food.
+Notice how rhe stars vanish as the sun comes up,
+and how all streams stream toward rhe ocean.
+Look at the chefs preparing special plates
+for everyone, according to what they need.
+Look at this cup that can hold the ocean. Look at those who see the face.
+Look through Shams’ eyes
+into the water that is entirely jewels.`,
+
+      "34" :`I H AV E F I V E T H I N G S TO S AY
+The wakened lover speaks directly to the beloved,
+“You are the sky my spirit circles in,
+the love inside love, the resurrection-place.
+Let this window be your ear.
+I have lost consciousness many times with longing for your listening silence, and your 1ife•quickening smile.
+You give attention to the smallest matters, my suspicious doubts, and to the greatest.
+You know my coins are counterfeit,
+hut you accept them anyway,
+my impudence and my pretending!
+ 
+I have five things to say, five fingers to give
+into your grace.
+First, when I was apart from you, this world did not exist, nor any other.
+Second, whatever I was looking for was always you.
+Third, why did I ever learn to count to three?
+£ourth, my cornfield is burning! Fifth, this Anger stands for Rabia,
+and this is for someone ‹*se. Is there a difference?
+Are these words or tears? Is weeping speech?
+that shall I do, my love?”
+So he speaks, and everyone around begins to cry with him, laughing crazily, moaning in the spreading union
+of lover and beloved.
+This is rhe true religion. AU or hers are thrown-away bandages Preside it.
+This is the seen of slavery and mastery dancing together. This is nc›t-l›eing.
+Neither words, nor any nan ural fact can express this.
+I know these dancers.
+Day and night I sing their songs in this phenomenal cage.
+My soul, don’t try to answer now! Find a friend, and hide.
+ 
+But what can stay hidden?
+Love’s secret is always lifting its head
+out from under the covers,
+“Here I am!’`,
+
+      
+
       
 
    "a":`“This is how I would die
