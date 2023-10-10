@@ -28,13 +28,51 @@ function care(){
 
 care()
 
-function protect(){
-  setTimeout(()=>{
-    alert("Princess, I've have few poetries for you. You can access it with individual number like 0,1,2, etc,... and alphabets.. Thank You")
-  }, 4000)
-}
 
-protect()
+const alerts = [
+   
+    "You bring light to the world!",
+    "You're the reason for smiles today!",
+    "Your kindness touches hearts far and near!",
+    "In your presence, every day feels like a fairytale!",
+    "Your grace and charm inspire greatness in others!",
+    "Princess Noureen, you're a true gem in our lives!",
+    "May your day be as lovely as you are, Princess!",
+    "Your inner beauty shines brighter than the stars!",
+    "A princess like you is a gift to cherish forever!",
+    "You fill our world with joy, Princess Noureen!",
+    "Your smile has the power to brighten any day!",
+    "Princess, your heart is as pure as freshly fallen snow!",
+    "With you around, life is a beautiful adventure!",
+    "Your presence is a blessing that warms our hearts!",
+];
+
+function getUserUniqueAlert() {
+          
+            const randomIndex = Math.floor(Math.random() * alerts.length);
+            return alerts[randomIndex];
+        }
+
+        // Function to display the user's unique alert
+        function showUserAlert() {
+            const userAlert = getUserUniqueAlert();
+            alert(userAlert);
+        }
+
+        // Call the function when the page is loaded
+        window.onload = showUserAlert;
+
+
+
+
+
+
+
+
+
+
+
+
 
 function wish(){
   setInterval(()=>{
