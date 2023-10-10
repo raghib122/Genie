@@ -20,6 +20,30 @@ function greeting() {
 
 greeting(); // Call the function to start the process
 
+function care(){
+  setTimeout(()=>{
+    alert("Princess Noureen, you are a precious gem in this vast universe. Take good care of yourself, and remember that I'm with you in every situation")
+  }, 9000)
+}
+
+care()
+
+function protect(){
+  setTimeout(()=>{
+    alert("Princess, I've have few poetries for you. You can access it with individual number like 0,1,2, etc,... and alphabets.. Thank You")
+  }, 4000)
+}
+
+protect()
+
+function wish(){
+  setInterval(()=>{
+    alert("Princess Noureen, Take care of yourself.")
+  }, 300000)
+}
+
+wish()
+
 function talk(){
     var know = {
         "Hello": "ٱلسَّلَامُ عَلَيْكُمْ",
