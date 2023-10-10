@@ -22,7 +22,7 @@ greeting(); // Call the function to start the process
 
 function care(){
   setTimeout(()=>{
-    alert("Princess Noureen, you are a precious gem in this vast universe. Take good care of yourself, and remember that I'm with you in every situation")
+    alert("Princess Noureen❤️👸, you are a precious gem in this vast universe. Take good care of yourself, and remember that I'm with you in every situation.😊🌹💕")
   }, 9000)
 }
 
@@ -31,20 +31,20 @@ care()
 
 const alerts = [
    
-    "You bring light to the world!",
-    "You're the reason for smiles today!",
-    "Your kindness touches hearts far and near!",
-    "In your presence, every day feels like a fairytale!",
-    "Your grace and charm inspire greatness in others!",
-    "Princess Noureen, you're a true gem in our lives!",
-    "May your day be as lovely as you are, Princess!",
-    "Your inner beauty shines brighter than the stars!",
-    "A princess like you is a gift to cherish forever!",
-    "You fill our world with joy, Princess Noureen!",
-    "Your smile has the power to brighten any day!",
-    "Princess, your heart is as pure as freshly fallen snow!",
-    "With you around, life is a beautiful adventure!",
-    "Your presence is a blessing that warms our hearts!",
+    "You bring light to the world!😊🌹💕",
+    "You're the reason for smiles today!😊🌹💕",
+    "Your kindness touches hearts far and near!😊🌹💕",
+    "In your presence, every day feels like a fairytale!😊🌹💕",
+    "Your grace and charm inspire greatness in others!😊🌹💕",
+    "Princess Noureen, you're a true gem in our lives!😊🌹💕",
+    "May your day be as lovely as you are, Princess!😊🌹💕",
+    "Your inner beauty shines brighter than the stars!😊🌹💕",
+    "A princess like you is a gift to cherish forever!😊🌹💕",
+    "You fill our world with joy, Princess Noureen!😊🌹💕",
+    "Your smile has the power to brighten any day!😊🌹💕",
+    "Princess, your heart is as pure as freshly fallen snow!😊🌹💕",
+    "With you around, life is a beautiful adventure!😊🌹💕",
+    "Your presence is a blessing that warms our hearts!😊🌹💕",
 ];
 
 function getUserUniqueAlert() {
