@@ -44,6 +44,14 @@ function wish(){
 
 wish()
 
+function love (){
+  setInterval(()=>{
+    alert(`And I'd choose you; in a hundred lifetimes, in a hundred worlds, in any version of reality, I'd find you and I'd choose you.`)
+  }, 120000)
+}
+
+love ()
+
 function talk(){
     var know = {
         "Hello": "ٱلسَّلَامُ عَلَيْكُمْ",
