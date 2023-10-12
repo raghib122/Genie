@@ -34,11 +34,11 @@ var currentHour = currentTime.getHours();
 
 var greeting;
 if (currentHour >= 0 && currentHour < 12) {
-    greeting = "Good morning, Princess Noureen. ☀️ May your day be as radiant as your smile, as kind as your heart, and as beautiful as your spirit. 🌞👑💖";
+    greeting = "Good morning, my dear Princess. As the sun rises, I want you to know that your well-being is always on my mind. Take care and embrace the day with a smile. 🌞💖😊";
 } else if (currentHour >= 12 && currentHour < 18) {
-    greeting = "Good afternoon, my dear Princess🌹🌹. I hope you're having a wonderful day. Please remember not to stress, as I'm here with you. Enjoy the rest of your day! 🌞🌼😊";
+    greeting = "Good afternoon, Princess. I hope your day is going well. Take a moment to relax and recharge, and remember, I'm here for you if you need anything. 🌼💖😊";
 } else {
-    greeting = "Good evening, Noureen❤️. You're the kind of friend only a saint-like person deserves, yet here you are, with me, like a sinner forgiven by God. I'm thankful to both God and you for your presence in my life. Be happy, my dear friend. 🌆😊❤️🦄💖";
+    greeting = "Good evening, Princess. I just wanted to send some positive energy your way as the day unfolds into a peaceful evening. 🌆😊❤️🦄💖";
 }
 
 
