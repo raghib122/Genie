@@ -1,27 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
-
+/* General Styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    }
-    body {
+}
+
+body {
     width: 100vw;
     height: 120vh;
     font-family: sans-serif;
     padding: 2em;
-    /* background: url("https://images.unsplash.com/photo-1537420327992-d6e192287183?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BhY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60"); */
-    background-image: linear-gradient( 178.5deg,  rgba(122,231,248,1) 6.5%, rgba(86,118,191,1) 90.9% );
+    background-image: linear-gradient( 178.5deg, rgba(122,231,248,1) 6.5%, rgba(86,118,191,1) 90.9%);
     opacity: 0.5;
     background-position: center;
     background-repeat: no-repeat;
-    background-position: 100% 20%;
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    }
-    .glass {
+}
+
+.glass {
     width: 100%;
     height: 100%;
     background-color: rgba(255, 255, 255, 0.1);
@@ -33,54 +32,45 @@
     background-clip: padding-box;
     box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
     line-height: 1.5;
-    transform: translatey(-5%);
+    transform: translateY(-5%);
     transition: transform 0.5s;
-    }
-    .glass-1 {
-    width: 500px;
-    height: 400px;
-    background-color: rgba(255, 255, 255, 0.1);
-    padding: 50px;
-    color: rgb(122, 82, 82);
-    border-radius: 9px;
-    backdrop-filter: blur(50px);
-    border: 2px solid transparent;
-    background-clip: padding-box;
-    box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
-    line-height: 1.5;
-    transform: translatey(-5%);
-    transition: transform 0.5s;
-    font-size: 1.7rem;
-    }
-    .glass h1 {
+}
+
+.glass h1 {
     font-size: 1.5rem;
     text-align: center;
-    }
-    .glass h2 {
-    font-size: 1rem;
-    margin-top: 20px;
-    }
-    .input {
+}
+
+.glass h3 {
+    color: violet;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.input {
     width: 100%;
     height: 70px;
     overflow: hidden;
     margin-top: 40px;
-    }
-    .input input {
+}
+
+.input input {
     width: 100%;
     height: 70px;
     border: none;
     padding-left: 15px;
-    padding-top: 0;
     outline: none;
     font-size: 1rem;
     border-radius: 10px;
-    }
-    .glass p {
+}
+
+/* Chat Log Styles */
+#chatLog {
     font-size: 1rem;
     margin-top: 30px;
-    }
-h3{
-color: violet;
-font-family: 'Cedarville Cursive', cursive;
-  }
+    height: 150px; /* Adjust height as needed */
+    overflow-y: auto; /* Enables vertical scroll if content exceeds the height */
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.15); /* Slight background for better visibility */
+    border-radius: 5px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add inner shadow */
+}
